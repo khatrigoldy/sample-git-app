@@ -10,3 +10,7 @@ with col1:
         This site is used to created for killing of innocent children.
         """)
 
+st.header('courses offer')
+st.subheader('nalla course')
+st.subheader('berojgaari')
+st.subheader('fees vasuli')
