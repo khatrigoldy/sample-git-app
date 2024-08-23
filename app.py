@@ -11,8 +11,8 @@ with col1:
         """)
 
 st.header('courses offer')
-st.subheader('nalla course')
-st.subheader('berojgaari')
+st.subheader('operational research')
+st.subheader('stats')
 st.subheader('fees vasuli')
 st.subheader('viany')
 st.subheader('nishant')
