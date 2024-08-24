@@ -17,3 +17,11 @@ st.subheader('mathematics')
 st.subheader('cs')
 st.subheader('mca')
 st.subheader('data science')
+
+
+st.sidebar.title('menu')
+st.sidebar.markdown(""""
+-home
+-about
+-contact
+""")
