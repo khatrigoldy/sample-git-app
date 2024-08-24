@@ -27,3 +27,6 @@ st.sidebar.markdown(""""
 -carrer
 -login
 """)
+
+st.sidebar.selectbox('select one',['teacher','student'] )
+st.sidebar.button('select')
